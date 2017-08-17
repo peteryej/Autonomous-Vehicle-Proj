@@ -1,3 +1,14 @@
+/*
+    *Arduino Autonomous Vehicle
+    *It incorporates signals from RaspberryPi GPIO pins, Arduino Ultrasonic sensors,
+    *
+    *@author: Peter Ye
+    *Date: Fianl edit: May 10, 2017
+	
+*/
+
+//Includes libraries
+
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
 
