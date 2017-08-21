@@ -1,1 +1,2 @@
 # Autonomous-Vehicle-Proj
+It contains the Arduino code for a scale-down autonomous vehicle application. It's a year-long four people team project. I worked extensively with Arduino boards and wrote C/C++ code to incorporate data from ultrasonic sensors, cameras, LIDAR, and GPS signals in order to make the vehicle move appropriately.  Through this hands-on and challenging project, I gained precious team management and communication skills as well as technical expertise in embedded systems and real-time control systems.  
